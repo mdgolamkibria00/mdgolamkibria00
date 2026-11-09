@@ -27,5 +27,10 @@ Team Leadership · Inventory Management · SEO · WordPress · Excel
   - Business Analysis and Business Development
   - Banking and Customer Relationship roles
   - Marketing and Brand Management
+ 
+## Projects
+- [FMCG Digital Transformation Research](https://github.com/mdgolamkibria00/fmcg-digital-transformation-research): literature-based MBA study on digital marketing in Bangladesh's FMCG sector
+
+
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/mdkibria)
