@@ -19,9 +19,13 @@ Team Leadership · Inventory Management · SEO · WordPress · Excel
 
 ## Currently
 - 🎓 MBA (Supply Chain Management)
+- 🎓 PGD in Marketing & Brand Management
 - 📚 Learning research methods and academic writing
 - 📊 Building my Excel and business analysis skills
-- 🔍 Open to new opportunities in retail, marketing, and business development
-
+- 🔍 Open to opportunities in:
+  - Management Trainee Officer (MTO)
+  - Business Analysis and Business Development
+  - Banking and Customer Relationship roles
+  - Marketing and Brand Management
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/mdkibria)
